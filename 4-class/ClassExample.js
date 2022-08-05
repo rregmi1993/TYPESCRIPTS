@@ -1,3 +1,4 @@
+"use strict";
 var ClassExample = /** @class */ (function () {
     // constructor 
     function ClassExample(theFirst, theLast) {
