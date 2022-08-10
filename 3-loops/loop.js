@@ -1,3 +1,4 @@
+"use strict";
 for (var i_1 = 0; i_1 < 10; i_1++) {
     console.log(i_1);
 }
@@ -38,6 +39,7 @@ for (var _b = 0, samplearraylist_3 = samplearraylist; _b < samplearraylist_3.len
         console.log("This is my name:" + iname);
     }
 }
+console.log('------------------------');
 //while loop
 var i = 1;
 while (i < 4) {

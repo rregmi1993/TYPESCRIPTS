@@ -1,3 +1,4 @@
+"use strict";
 var ispass = true;
 var username = "Ram";
 var college = "NIT Nagaland";

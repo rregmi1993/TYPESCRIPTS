@@ -23,3 +23,4 @@ var ParameterPropertiesClass = /** @class */ (function () {
 var parameterPropertiesClass = new ParameterPropertiesClass('Subham', 'Shaw');
 console.log(parameterPropertiesClass.firstName);
 console.log(parameterPropertiesClass.lastName);
+// it reduce the Boilerplate code
